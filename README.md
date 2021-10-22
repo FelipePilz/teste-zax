@@ -1,3 +1,8 @@
+## Desafio de Logica da Zax
+#### Utilizei o Bootstrap para estilizar a pagina de html
+
+Desafio:
+```
 Existem 5 motoboys, cada motoboy ganha uma comissão diferente por pedido coletado, e alguns motoboys possuem exclusividade com algumas lojas na qual fazem coletas.
 
 Os motoboys não podem reclamar que ficaram sem pedidos.
@@ -33,3 +38,4 @@ O Moto 2 atende todas as lojas
 O Moto 3 atende todas as lojas
 O Moto 4 atende apenas a loja 1
 O Moto 5 atende todas as lojas
+```
