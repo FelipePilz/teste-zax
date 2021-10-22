@@ -1,6 +1,6 @@
 // 0 Nenhuma restricao
 // Se tiver restricao, sera numerada as lojas restritas
-var motoboys = [2, 2, 2, 2, 5];
+var motoboys = [2, 2, 2, 2, 3];
 
 var lojas = [
     [50, 50, 50], //Loja 1
