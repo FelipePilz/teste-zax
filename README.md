@@ -1,5 +1,5 @@
 ## Desafio de Logica da Zax
-#### Utilizei o Bootstrap para estilizar a pagina de html
+### O programa foi feito com HTML, Bootstrap para estilizacao e JavaScript para a Logica do desafio
 
 Desafio:
 ```
